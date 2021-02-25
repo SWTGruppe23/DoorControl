@@ -6,5 +6,7 @@ namespace DoorControl.Interfaces
 {
     interface INotification
     {
+        void NotifyEntryGranted(int id);
+        void NotifyEntryDenied(int id);
     }
 }
