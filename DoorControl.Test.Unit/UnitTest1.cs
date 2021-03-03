@@ -15,4 +15,4 @@ namespace DoorControl.Test.Unit
             Assert.Pass();
         }
     }
-}//
+}
